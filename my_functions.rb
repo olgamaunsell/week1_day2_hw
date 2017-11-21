@@ -11,7 +11,7 @@ def population_density(population, area)
   return population/area
 end
 
-p "The population density of Mauritius is #{population_density(5373000, 77933)} ppl/sq.km."
+# p "The population density of Mauritius is #{population_density(5373000, 77933)} ppl/sq.km."
 
 def subtract(first_number, second_number)
   return first_number - second_number
